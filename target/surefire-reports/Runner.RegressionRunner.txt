@@ -1,0 +1,202 @@
+-------------------------------------------------------------------------------
+Test set: Runner.RegressionRunner
+-------------------------------------------------------------------------------
+Tests run: 30, Failures: 0, Errors: 22, Skipped: 0, Time elapsed: 25.986 s <<< FAILURE! - in Runner.RegressionRunner
+searching for make up organizer(Etsy.com testing)  Time elapsed: 2.752 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+searching for make up organizer(Etsy.com testing)  Time elapsed: 2.753 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Validation of Client Info(This is the validation of Project Client SetUp)  Time elapsed: 0.074 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Validation of Client Info(This is the validation of Project Client SetUp)  Time elapsed: 0.074 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Validation of Personal Info-Positive(This is testing person qualifications)  Time elapsed: 0.047 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Validation of Personal Info-Positive(This is testing person qualifications)  Time elapsed: 0.047 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Validation of Personal Info-Negative(This is testing person qualifications)  Time elapsed: 0.035 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Validation of Personal Info-Negative(This is testing person qualifications)  Time elapsed: 0.035 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.032 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.032 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.032 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.032 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.032 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.032 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.04 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+EMPTY_NAME(Validation of Salary Component)  Time elapsed: 0.04 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Test1(This is for test)  Time elapsed: 0.045 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+Test1(This is for test)  Time elapsed: 0.045 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+validation of header(This is for View All Products Page)  Time elapsed: 0.039 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+validation of header(This is for View All Products Page)  Time elapsed: 0.039 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+This is validation of all product data(This is for web order all products)  Time elapsed: 0.048 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
+This is validation of all product data(This is for web order all products)  Time elapsed: 0.048 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'As-MacBook-Pro.local', ip: 'fe80:0:0:0:485:7fa0:f4b:5b12%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.3', java.version: '13.0.1'
+Driver info: driver.version: RemoteWebDriver
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:42034
+Caused by: java.net.ConnectException: Connection refused
+
